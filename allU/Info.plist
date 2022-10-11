@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MBXAccessToken</key>
+	<string>sk.eyJ1IjoiZGpiYXVlciIsImEiOiJjbDkzb2J6anYwNGNmM3ZyMnVkdjhmb3pwIn0.F5NzP-BZsYFSe7zdgqM5Gg</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Need location</string>
+</dict>
+</plist>
